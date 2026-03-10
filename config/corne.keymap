@@ -37,10 +37,10 @@
 
             display-name = "Lower";
             bindings = <
-&kp TAB                               &kp N1  &kp N2  &kp N3    &kp N4  &kp N5     &kp N6     &kp N7        &kp N8          &kp N9      &kp N0      &kp ESC
-&kp C_AC_NEXT_KEYBOARD_LAYOUT_SELECT  &trans  &trans  &trans    &trans  &trans     &kp LEFT   &kp UP_ARROW  &kp DOWN_ARROW  &kp RIGHT   &kp LC(A)   &kp BSPC
-&kp LSHFT                             &trans  &trans  &trans    &trans  &trans     &kp LC(A)  &trans        &trans          &bt BT_PRV  &bt BT_NXT  &trans
-                                                      &kp LGUI  &trans  &kp RET    &kp SPACE  &trans        &kp RALT
+&kp TAB    &kp N1  &kp N2  &kp N3    &kp N4  &kp N5     &kp N6     &kp N7        &kp N8          &kp N9      &kp N0      &kp ESC
+&kp GLOBE  &trans  &trans  &trans    &trans  &trans     &kp LEFT   &kp UP_ARROW  &kp DOWN_ARROW  &kp RIGHT   &kp LC(A)   &kp BSPC
+&kp LSHFT  &trans  &trans  &trans    &trans  &trans     &kp LC(A)  &trans        &trans          &bt BT_PRV  &bt BT_NXT  &trans
+                           &kp LGUI  &trans  &kp RET    &kp SPACE  &trans        &kp RALT
             >;
         };
 
